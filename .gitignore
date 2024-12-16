@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/FapnaLiveCode/obj
+/FapnaLiveCode/bin/Debug/net8.0
+/TestProject/bin/Debug/net8.0
+/TestProject/obj
+/.vs
